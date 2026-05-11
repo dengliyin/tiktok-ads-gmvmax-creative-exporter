@@ -1,0 +1,15 @@
+{
+  "name": "tiktok-ads-gmvmax-creative-exporter",
+  "version": "1.0.0",
+  "description": "Browser automation for exporting active GMV Max creative performance files from TikTok Ads.",
+  "scripts": {
+    "install-browser": "npx playwright install chromium",
+    "setup-login": "node scripts/setup-login.js",
+    "assisted-login": "node scripts/assisted-login.js",
+    "inspect-page": "node scripts/inspect-page.js",
+    "export-gmvmax-creatives": "node scripts/export-gmvmax-creatives.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}

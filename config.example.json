@@ -1,0 +1,11 @@
+{
+  "gmvMaxUrl": "https://ads.tiktok.com/i18n/gmv-max/dashboard?aadvid=7573982642711003152&oec_seller_id=8647957797804672953&bc_id=7374631816264908801&type=product",
+  "downloadDir": "./downloads",
+  "browserProfileDir": "./browser-profile",
+  "storageStatePath": "./storage-state.json",
+  "headless": false,
+  "exportTimeoutMs": 120000,
+  "navigationTimeoutMs": 60000,
+  "dateFormat": "yyyy-MM-dd",
+  "maxCampaigns": 0
+}

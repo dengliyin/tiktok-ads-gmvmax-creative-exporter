@@ -1,0 +1,10 @@
+node_modules/
+browser-profile/
+storage-state.json
+config.json
+downloads/
+debug-output/
+inspect-output/
+*.log
+.DS_Store
+Thumbs.db
