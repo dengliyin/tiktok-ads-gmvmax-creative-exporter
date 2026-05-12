@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Example Shop",
+    "operator": "Operator",
+    "region": "PH",
+    "shop_name": "Example TikTok Shop",
+    "shop_code": "SHOP_CODE",
+    "aadvid": "ADVERTISER_ID",
+    "oec_seller_id": "SELLER_ID",
+    "bc_id": "BUSINESS_CENTER_ID",
+    "url": "https://ads.tiktok.com/i18n/gmv-max/dashboard?aadvid=ADVERTISER_ID&oec_seller_id=SELLER_ID&bc_id=BUSINESS_CENTER_ID&type=product"
+  }
+]

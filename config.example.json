@@ -1,0 +1,11 @@
+{
+  "gmvMaxUrl": "https://ads.tiktok.com/i18n/gmv-max/dashboard?aadvid=PLACEHOLDER&oec_seller_id=PLACEHOLDER&bc_id=PLACEHOLDER&type=product",
+  "downloadDir": "./downloads",
+  "browserProfileDir": "./browser-profile",
+  "storageStatePath": "./storage-state.json",
+  "headless": false,
+  "exportTimeoutMs": 120000,
+  "navigationTimeoutMs": 60000,
+  "dateFormat": "yyyy-MM-dd",
+  "maxCampaigns": 0
+}

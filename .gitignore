@@ -1,0 +1,20 @@
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local configuration and credentials
+config.json
+accounts.json
+storage-state.json
+browser-profile/
+
+# Generated outputs and diagnostics
+downloads/
+debug-output/
+GMVMAX_EXPORT_ISSUES.md
+
+# Local assistant/editor state
+.claude/
