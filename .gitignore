@@ -1,4 +1,9 @@
 .DS_Store
+Thumbs.db
+*.log
+
+# Node.js
+node_modules/
 
 # Python
 .venv/
@@ -14,6 +19,7 @@ browser-profile/
 # Generated outputs and diagnostics
 downloads/
 debug-output/
+inspect-output/
 GMVMAX_EXPORT_ISSUES.md
 
 # Local assistant/editor state
